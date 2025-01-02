@@ -1,0 +1,20 @@
+p {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", "Sans";
+
+}
+
+#p2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.p3 {
+    font-size: 24px;
+}
+
+#p4 {
+    background-color: #59ef59;
+    font-weight: bold;
+    font-size: 24px;
+}
